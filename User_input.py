@@ -1,4 +1,5 @@
 print('Hello')
+Print('You\'re an amazing person. What is your name, your age, and address?')
 Name = input('What is your name? ')
 Age = input("What is your age? ")
 Address = input("What is your address? ")
